@@ -10,15 +10,15 @@ Ana Sayfada
  
 Diğer Sayfalar:
 
-Özgeçmiş Sayfası
+-Özgeçmiş Sayfası
 
--Eğitim bilgilerini içeren CV niteliğindeki yazı.
+Eğitim bilgilerini içeren CV niteliğindeki yazı.
 
-İlgi Alanlarım Sayfası
+-İlgi Alanlarım Sayfası
 
--İlgi alanım hakkında bir API servisinden veri alınıp gösterilmelidir.
+İlgi alanım hakkında bir API servisinden veri alınıp gösterilmelidir.
 
-Şehrim Sayfası
+-Şehrim Sayfası
 
 Burası da sayfalara ayrılacak.
 
@@ -43,8 +43,9 @@ Login Sayfası
 - Eğer kullanıcı adı ve şifre doğrulanırsa Hoşgeldiniz mesajı verilir.
 - Eğer kullanıcı ad veya şifre yanlış ise login sayfasına geri dönülür.
 
-İletişim Sayfası
-- Form elemanları kullanılmalı
-- Kontrol işlemleri javascript ile yapılmalı
-- Gönderilen form bilgileri başka bir sayfada görüntülenir.
-- Form, temizle ve gönder butonları içermelidir.
+- İletişim Sayfası
+- 
+Form elemanları kullanılmalı
+Kontrol işlemleri javascript ile yapılmalı
+Gönderilen form bilgileri başka bir sayfada görüntülenir.
+Form, temizle ve gönder butonları içermelidir.

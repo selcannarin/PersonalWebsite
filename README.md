@@ -21,9 +21,13 @@
 ##### Şehrim Sayfası
 
 -Tarihçe: Şehrimin tarihçesini anlatan kısa yazı.
+
 -İlçeler: Kısaca ilçeleri anlatan yazılar.
+
 -Gezilecek Yerler:En az 4 mekana ait fotoğrafın olduğu bir slider
+
 (Slider daki resimlere tıklandığında resimlere ait içerik sayfaları açılmalı)
+
 -Yöresel Yemekler: Yöresel yemek fotoğrafları ve içerikleri.
 
 ##### Mirasımız Sayfası

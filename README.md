@@ -1,12 +1,13 @@
 # web-teknolojileri-projesi
 Projenin Amacı:
 Kendimi ve doğduğum şehri tanıtan kişisel bir web sitesi kurmak.
+
 İçerik:
 Ana Sayfada
 - Diğer sayfalara ulaşılabilicek menü
 - Hakkımda Sayfası
 Kendim hakkında giriş niteliğinde bilgi yazısı.
-- -Diğer Sayfalar:
+- Diğer Sayfalar:
 Özgeçmiş Sayfası
 -Eğitim bilgilerini içeren CV niteliğindeki yazı.
 İlgi Alanlarım Sayfası

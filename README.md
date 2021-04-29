@@ -1,7 +1,7 @@
 # web-teknolojileri-projesi
 
-####Selcan Narin – G191210027 2.Öğretim C
-####Öğretim Üyesi: Dr.Öğr.Üyesi GÜLÜZAR ÇİT
+#### Selcan Narin – G191210027 2.Öğretim C
+#### Öğretim Üyesi: Dr.Öğr.Üyesi GÜLÜZAR ÇİT
 
 ###  Projenin Amacı:
 - Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.

@@ -4,7 +4,7 @@
 #### Öğretim Üyesi: Dr.Öğr.Üyesi GÜLÜZAR ÇİT
 
 ###  Projenin Amacı:
-- Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
+- Kendimi ve memleketimi tanıtan kişisel bir web sitesi geliştirmek.
 
 ##   İçerik
 

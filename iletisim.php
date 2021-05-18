@@ -66,9 +66,7 @@
 			<div class="container" style="text-align:center;">
 
 				<div class="col-md-8 px-0">
-					<h1 class="display-4 font-italic" style="margin-left:400px; margin-top:90px;">
-						İletişim Bilgileriniz:
-					</h1>
+				<h3 style="font-family: Arial, Helvetica, sans-serif; color: rgb(212, 150, 153); font-size:70px; margin-top:20%;">İletişim Bilgileriniz:</h3> <br><br>
 				</div>
 
 			</div>

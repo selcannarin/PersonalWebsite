@@ -20,7 +20,7 @@
 
 ##### İlgi Alanlarım Sayfası
 
-- İlgi alanım hakkında bir API servisinden veri alınıp gösterilmelidir.
+- Filmler hakkında https://ghibliapi.herokuapp.com/ sitesinden api ile veri çekme ve diğer yazılar.
 
 ##### Şehrim Sayfası
 
@@ -28,11 +28,11 @@
 
 -İlçeler: Kısaca ilçeleri anlatan yazılar.
 
--Gezilecek Yerler:En az 4 mekana ait fotoğrafın olduğu bir slider
+-Gezilecek Yerler:5 mekana ait fotoğrafın olduğu bir slider
 
 (Slider daki resimlere tıklandığında resimlere ait içerik sayfaları açılmalı)
 
-##### Mirasımız Sayfası
+##### Kültürel Mirasımız Sayfası
 
 - Şehirdeki kültürel bir mekanın tanıtımı.
 

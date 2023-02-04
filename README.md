@@ -1,4 +1,4 @@
-# web-teknolojileri-projesi
+# Kişisel Web Sitesi
 
 ###  Projenin Amacı:
 - Kendimi ve memleketimi tanıtan kişisel bir web sitesi geliştirmek.
